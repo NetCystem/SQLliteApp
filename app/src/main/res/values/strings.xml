@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLlite App</string>
+    <string name="svae">Svae</string>
+    <string name="go">Go</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="id">ID</string>
+</resources>
